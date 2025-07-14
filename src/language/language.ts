@@ -92,6 +92,7 @@ i18next.use(initReactI18next).init({
           cancel: 'Скасувати',
           send: 'Надіслати',
         },
+        privacyTitle: 'Політика конфіденційності',
       },
     },
     en: {
@@ -182,7 +183,8 @@ i18next.use(initReactI18next).init({
         error: 'Error sending message. Please try again.',
         cancel: 'Cancel',
         send: 'Send',
-      }
+      },
+      privacyTitle: 'Privacy Policy',
       },
     },
     fr: {
@@ -273,7 +275,8 @@ i18next.use(initReactI18next).init({
           error: 'Erreur lors de l’envoi du message. Veuillez réessayer.',
           cancel: 'Annuler',
           send: 'Envoyer',
-        }
+        },
+        privacyTitle: 'Politique de confidentialité',
       },
 
     },
